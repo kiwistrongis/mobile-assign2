@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:tools="http://schemas.android.com/tools"
+	tools:context=".BrowseActivity">
+	<item
+		android:id="@+id/action_add_product"
+		android:showAsAction="ifRoom"
+		android:title="@string/add_product"
+		tools:ignore="AppCompatResource"/>
+</menu>

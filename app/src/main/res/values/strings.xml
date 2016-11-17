@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="add_product">Add Product</string>
+	<string name="app_name">Assign2</string>
+	<string name="app_name_debug">Assign2 Debug</string>
+	<string name="cancel">Cancel</string>
+	<string name="delete">Delete</string>
+	<string name="delete_confirm">Press "Ok" to confirm deletion.</string>
+	<string name="field_name_default">Unnamed Product</string>
+	<string name="field_desc_default">Undescribed Product</string>
+	<string name="field_price_default">00.01</string>
+	<string name="label_desc">Description:</string>
+	<string name="label_name">Name:</string>
+	<string name="label_price_cad">Price (CAD):</string>
+	<string name="label_price_btc">Price (BTC):</string>
+	<string name="launch">Launch</string>
+	<string name="log_started">Log started...</string>
+	<string name="loading_btc">Converting...</string>
+	<string name="next">Next ≫</string>
+	<string name="prev">≪ Prev</string>
+	<string name="save">Save</string>
+	<string name="test">Test</string>
+</resources>
